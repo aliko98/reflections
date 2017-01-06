@@ -16,3 +16,7 @@ How would branches help?
 A branch can be useful when you want to experiment with adding a new feature. The branch allows you to keep
 the core files intact while trying out new things. That way you don't have to reverse the changes if
 they didn't work out. 
+
+How do the diagrams help you visualize the branch structure?
+It helps you see where the branches split off from the master branch. You can see which commits
+are in the various branches. 
