@@ -20,3 +20,6 @@ they didn't work out.
 How do the diagrams help you visualize the branch structure?
 It helps you see where the branches split off from the master branch. You can see which commits
 are in the various branches. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It combines the commit history of two branches. 
